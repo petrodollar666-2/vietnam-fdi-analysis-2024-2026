@@ -1,0 +1,487 @@
+{
+  "metadata": {
+    "title": "Báo Cáo Thống Kê & Phân Tích Dữ Liệu FDI Việt Nam (2024 - 2026)",
+    "currency": "USD (Billion USD)",
+    "extracted_at": "2026-09-16",
+    "sources": [
+      {
+        "name": "Cục Đầu tư nước ngoài (Bộ Kế hoạch và Đầu tư - FIA)",
+        "tier": "Tier 1 - Official Govt",
+        "url": "https://fia.mpi.gov.vn"
+      },
+      {
+        "name": "Tổng cục Thống kê (GSO / Cục Thống kê Bộ Tài chính)",
+        "tier": "Tier 1 - Official Govt",
+        "url": "https://gso.gov.vn"
+      },
+      {
+        "name": "Cổng Thông tin Điện tử Chính phủ",
+        "tier": "Tier 1 - Official Media",
+        "url": "https://baochinhphu.vn"
+      },
+      {
+        "name": "Trading Economics / CEIC Data",
+        "tier": "Tier 2 - Global Macro Data",
+        "url": "https://tradingeconomics.com/vietnam/foreign-direct-investment"
+      }
+    ]
+  },
+  "annual_overview": [
+    {
+      "year": 2024,
+      "total_registered_billion_usd": 38.23,
+      "implemented_billion_usd": 25.35,
+      "new_registered_billion_usd": 19.73,
+      "expanded_billion_usd": 13.96,
+      "m_and_a_billion_usd": 4.54,
+      "new_projects_count": 3288,
+      "top_partners_total": [
+        {
+          "country": "Singapore",
+          "capital_billion_usd": 10.21,
+          "share_percent": 26.7,
+          "rank": 1
+        },
+        {
+          "country": "Hàn Quốc",
+          "capital_billion_usd": 7.06,
+          "share_percent": 18.5,
+          "rank": 2
+        },
+        {
+          "country": "Trung Quốc",
+          "capital_billion_usd": 4.45,
+          "share_percent": 11.6,
+          "rank": 3
+        },
+        {
+          "country": "Hồng Kông (TQ)",
+          "capital_billion_usd": 4.41,
+          "share_percent": 11.5,
+          "rank": 4
+        },
+        {
+          "country": "Nhật Bản",
+          "capital_billion_usd": 3.68,
+          "share_percent": 9.6,
+          "rank": 5
+        },
+        {
+          "country": "Đài Loan",
+          "capital_billion_usd": 2.1,
+          "share_percent": 5.5,
+          "rank": 6
+        },
+        {
+          "country": "Khác",
+          "capital_billion_usd": 6.32,
+          "share_percent": 16.6,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "total_registered_billion_usd": 38.42,
+      "implemented_billion_usd": 27.62,
+      "new_registered_billion_usd": 17.32,
+      "expanded_billion_usd": 16.2,
+      "m_and_a_billion_usd": 4.9,
+      "new_projects_count": 4054,
+      "top_partners_total": [
+        {
+          "country": "Singapore",
+          "capital_billion_usd": 9.85,
+          "share_percent": 25.6,
+          "rank": 1
+        },
+        {
+          "country": "Hàn Quốc",
+          "capital_billion_usd": 6.8,
+          "share_percent": 17.7,
+          "rank": 2
+        },
+        {
+          "country": "Trung Quốc",
+          "capital_billion_usd": 5.12,
+          "share_percent": 13.3,
+          "rank": 3
+        },
+        {
+          "country": "Nhật Bản",
+          "capital_billion_usd": 4.1,
+          "share_percent": 10.7,
+          "rank": 4
+        },
+        {
+          "country": "Hồng Kông (TQ)",
+          "capital_billion_usd": 3.25,
+          "share_percent": 8.5,
+          "rank": 5
+        },
+        {
+          "country": "Thụy Điển",
+          "capital_billion_usd": 1.45,
+          "share_percent": 3.8,
+          "rank": 6
+        },
+        {
+          "country": "Đài Loan",
+          "capital_billion_usd": 1.35,
+          "share_percent": 3.5,
+          "rank": 7
+        },
+        {
+          "country": "Khác",
+          "capital_billion_usd": 6.5,
+          "share_percent": 16.9,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "period": "8 tháng đầu năm (Jan - Aug 2026)",
+      "total_registered_billion_usd": 40.63,
+      "implemented_billion_usd": 17.25,
+      "new_registered_billion_usd": 21.72,
+      "expanded_billion_usd": 14.8,
+      "m_and_a_billion_usd": 4.11,
+      "new_projects_count": 2771,
+      "top_partners_total": [
+        {
+          "country": "Singapore",
+          "capital_billion_usd": 11.2,
+          "share_percent": 27.6,
+          "rank": 1
+        },
+        {
+          "country": "Hàn Quốc",
+          "capital_billion_usd": 8.5,
+          "share_percent": 20.9,
+          "rank": 2
+        },
+        {
+          "country": "Trung Quốc",
+          "capital_billion_usd": 5.85,
+          "share_percent": 14.4,
+          "rank": 3
+        },
+        {
+          "country": "Hồng Kông (TQ)",
+          "capital_billion_usd": 4.8,
+          "share_percent": 11.8,
+          "rank": 4
+        },
+        {
+          "country": "Nhật Bản",
+          "capital_billion_usd": 3.95,
+          "share_percent": 9.7,
+          "rank": 5
+        },
+        {
+          "country": "Đài Loan",
+          "capital_billion_usd": 1.85,
+          "share_percent": 4.6,
+          "rank": 6
+        },
+        {
+          "country": "Khác",
+          "capital_billion_usd": 4.48,
+          "share_percent": 11.0,
+          "rank": 7
+        }
+      ]
+    }
+  ],
+  "monthly_time_series": [
+    {
+      "year": 2024,
+      "month": 1,
+      "month_name": "01/2024",
+      "cumulative_registered_billion_usd": 2.36,
+      "cumulative_implemented_billion_usd": 1.48,
+      "monthly_registered": 2.36,
+      "monthly_implemented": 1.48
+    },
+    {
+      "year": 2024,
+      "month": 2,
+      "month_name": "02/2024",
+      "cumulative_registered_billion_usd": 4.29,
+      "cumulative_implemented_billion_usd": 2.8,
+      "monthly_registered": 1.93,
+      "monthly_implemented": 1.32
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "month_name": "03/2024",
+      "cumulative_registered_billion_usd": 6.17,
+      "cumulative_implemented_billion_usd": 4.63,
+      "monthly_registered": 1.88,
+      "monthly_implemented": 1.83
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "month_name": "04/2024",
+      "cumulative_registered_billion_usd": 9.27,
+      "cumulative_implemented_billion_usd": 6.28,
+      "monthly_registered": 3.1,
+      "monthly_implemented": 1.65
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "month_name": "05/2024",
+      "cumulative_registered_billion_usd": 11.07,
+      "cumulative_implemented_billion_usd": 8.25,
+      "monthly_registered": 1.8,
+      "monthly_implemented": 1.97
+    },
+    {
+      "year": 2024,
+      "month": 6,
+      "month_name": "06/2024",
+      "cumulative_registered_billion_usd": 15.19,
+      "cumulative_implemented_billion_usd": 10.84,
+      "monthly_registered": 4.12,
+      "monthly_implemented": 2.59
+    },
+    {
+      "year": 2024,
+      "month": 7,
+      "month_name": "07/2024",
+      "cumulative_registered_billion_usd": 18.0,
+      "cumulative_implemented_billion_usd": 12.55,
+      "monthly_registered": 2.81,
+      "monthly_implemented": 1.71
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "month_name": "08/2024",
+      "cumulative_registered_billion_usd": 20.52,
+      "cumulative_implemented_billion_usd": 14.15,
+      "monthly_registered": 2.52,
+      "monthly_implemented": 1.6
+    },
+    {
+      "year": 2024,
+      "month": 9,
+      "month_name": "09/2024",
+      "cumulative_registered_billion_usd": 24.78,
+      "cumulative_implemented_billion_usd": 17.3,
+      "monthly_registered": 4.26,
+      "monthly_implemented": 3.15
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "month_name": "10/2024",
+      "cumulative_registered_billion_usd": 27.26,
+      "cumulative_implemented_billion_usd": 19.58,
+      "monthly_registered": 2.48,
+      "monthly_implemented": 2.28
+    },
+    {
+      "year": 2024,
+      "month": 11,
+      "month_name": "11/2024",
+      "cumulative_registered_billion_usd": 31.4,
+      "cumulative_implemented_billion_usd": 21.7,
+      "monthly_registered": 4.14,
+      "monthly_implemented": 2.12
+    },
+    {
+      "year": 2024,
+      "month": 12,
+      "month_name": "12/2024",
+      "cumulative_registered_billion_usd": 38.23,
+      "cumulative_implemented_billion_usd": 25.35,
+      "monthly_registered": 6.83,
+      "monthly_implemented": 3.65
+    },
+    {
+      "year": 2025,
+      "month": 1,
+      "month_name": "01/2025",
+      "cumulative_registered_billion_usd": 2.51,
+      "cumulative_implemented_billion_usd": 1.52,
+      "monthly_registered": 2.51,
+      "monthly_implemented": 1.52
+    },
+    {
+      "year": 2025,
+      "month": 2,
+      "month_name": "02/2025",
+      "cumulative_registered_billion_usd": 4.55,
+      "cumulative_implemented_billion_usd": 2.95,
+      "monthly_registered": 2.04,
+      "monthly_implemented": 1.43
+    },
+    {
+      "year": 2025,
+      "month": 3,
+      "month_name": "03/2025",
+      "cumulative_registered_billion_usd": 6.82,
+      "cumulative_implemented_billion_usd": 4.95,
+      "monthly_registered": 2.27,
+      "monthly_implemented": 2.0
+    },
+    {
+      "year": 2025,
+      "month": 4,
+      "month_name": "04/2025",
+      "cumulative_registered_billion_usd": 9.65,
+      "cumulative_implemented_billion_usd": 6.75,
+      "monthly_registered": 2.83,
+      "monthly_implemented": 1.8
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "month_name": "05/2025",
+      "cumulative_registered_billion_usd": 12.1,
+      "cumulative_implemented_billion_usd": 8.9,
+      "monthly_registered": 2.45,
+      "monthly_implemented": 2.15
+    },
+    {
+      "year": 2025,
+      "month": 6,
+      "month_name": "06/2025",
+      "cumulative_registered_billion_usd": 15.85,
+      "cumulative_implemented_billion_usd": 11.65,
+      "monthly_registered": 3.75,
+      "monthly_implemented": 2.75
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "month_name": "07/2025",
+      "cumulative_registered_billion_usd": 18.8,
+      "cumulative_implemented_billion_usd": 13.5,
+      "monthly_registered": 2.95,
+      "monthly_implemented": 1.85
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "month_name": "08/2025",
+      "cumulative_registered_billion_usd": 21.6,
+      "cumulative_implemented_billion_usd": 15.4,
+      "monthly_registered": 2.8,
+      "monthly_implemented": 1.9
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "month_name": "09/2025",
+      "cumulative_registered_billion_usd": 25.8,
+      "cumulative_implemented_billion_usd": 18.7,
+      "monthly_registered": 4.2,
+      "monthly_implemented": 3.3
+    },
+    {
+      "year": 2025,
+      "month": 10,
+      "month_name": "10/2025",
+      "cumulative_registered_billion_usd": 28.5,
+      "cumulative_implemented_billion_usd": 21.2,
+      "monthly_registered": 2.7,
+      "monthly_implemented": 2.5
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "month_name": "11/2025",
+      "cumulative_registered_billion_usd": 32.8,
+      "cumulative_implemented_billion_usd": 23.8,
+      "monthly_registered": 4.3,
+      "monthly_implemented": 2.6
+    },
+    {
+      "year": 2025,
+      "month": 12,
+      "month_name": "12/2025",
+      "cumulative_registered_billion_usd": 38.42,
+      "cumulative_implemented_billion_usd": 27.62,
+      "monthly_registered": 5.62,
+      "monthly_implemented": 3.82
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "month_name": "01/2026",
+      "cumulative_registered_billion_usd": 3.25,
+      "cumulative_implemented_billion_usd": 1.65,
+      "monthly_registered": 3.25,
+      "monthly_implemented": 1.65
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "month_name": "02/2026",
+      "cumulative_registered_billion_usd": 6.1,
+      "cumulative_implemented_billion_usd": 3.2,
+      "monthly_registered": 2.85,
+      "monthly_implemented": 1.55
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "month_name": "03/2026",
+      "cumulative_registered_billion_usd": 9.45,
+      "cumulative_implemented_billion_usd": 5.35,
+      "monthly_registered": 3.35,
+      "monthly_implemented": 2.15
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "month_name": "04/2026",
+      "cumulative_registered_billion_usd": 14.2,
+      "cumulative_implemented_billion_usd": 7.5,
+      "monthly_registered": 4.75,
+      "monthly_implemented": 2.15
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "month_name": "05/2026",
+      "cumulative_registered_billion_usd": 19.8,
+      "cumulative_implemented_billion_usd": 9.95,
+      "monthly_registered": 5.6,
+      "monthly_implemented": 2.45
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "month_name": "06/2026",
+      "cumulative_registered_billion_usd": 26.15,
+      "cumulative_implemented_billion_usd": 12.8,
+      "monthly_registered": 6.35,
+      "monthly_implemented": 2.85
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "month_name": "07/2026",
+      "cumulative_registered_billion_usd": 33.5,
+      "cumulative_implemented_billion_usd": 15.1,
+      "monthly_registered": 7.35,
+      "monthly_implemented": 2.3
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "month_name": "08/2026",
+      "cumulative_registered_billion_usd": 40.63,
+      "cumulative_implemented_billion_usd": 17.25,
+      "monthly_registered": 7.13,
+      "monthly_implemented": 2.15
+    }
+  ]
+}
