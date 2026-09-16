@@ -82,7 +82,7 @@
     },
     {
       "year": 2025,
-      "total_registered_billion_usd": 38.42,
+      "total_registered_billion_usd": 38.418,
       "implemented_billion_usd": 27.62,
       "new_registered_billion_usd": 17.32,
       "expanded_billion_usd": 16.2,
@@ -91,51 +91,80 @@
       "top_partners_total": [
         {
           "country": "Singapore",
-          "capital_billion_usd": 9.85,
-          "share_percent": 25.6,
-          "rank": 1
-        },
-        {
-          "country": "Hàn Quốc",
-          "capital_billion_usd": 6.8,
-          "share_percent": 17.7,
-          "rank": 2
+          "capital_billion_usd": 9.395,
+          "share_percent": 24.45,
+          "rank": 1,
+          "yoy_change": "-8.0%"
         },
         {
           "country": "Trung Quốc",
-          "capital_billion_usd": 5.12,
-          "share_percent": 13.3,
-          "rank": 3
+          "capital_billion_usd": 5.696,
+          "share_percent": 14.83,
+          "rank": 2,
+          "yoy_change": "+20.4%"
+        },
+        {
+          "country": "Hàn Quốc",
+          "capital_billion_usd": 5.292,
+          "share_percent": 13.78,
+          "rank": 3,
+          "yoy_change": "-25.0%"
         },
         {
           "country": "Nhật Bản",
-          "capital_billion_usd": 4.1,
-          "share_percent": 10.7,
-          "rank": 4
+          "capital_billion_usd": 3.732,
+          "share_percent": 9.71,
+          "rank": 4,
+          "yoy_change": "+6.6%"
         },
         {
           "country": "Hồng Kông (TQ)",
-          "capital_billion_usd": 3.25,
-          "share_percent": 8.5,
-          "rank": 5
+          "capital_billion_usd": 3.13,
+          "share_percent": 8.15,
+          "rank": 5,
+          "yoy_change": "-28.0%"
         },
         {
-          "country": "Thụy Điển",
-          "capital_billion_usd": 1.45,
-          "share_percent": 3.8,
-          "rank": 6
+          "country": "Malaysia",
+          "capital_billion_usd": 2.063,
+          "share_percent": 5.37,
+          "rank": 6,
+          "yoy_change": "+1014.0%"
         },
         {
           "country": "Đài Loan",
-          "capital_billion_usd": 1.35,
-          "share_percent": 3.5,
-          "rank": 7
+          "capital_billion_usd": 1.723,
+          "share_percent": 4.49,
+          "rank": 7,
+          "yoy_change": "-17.3%"
         },
         {
-          "country": "Khác",
-          "capital_billion_usd": 6.5,
-          "share_percent": 16.9,
-          "rank": 8
+          "country": "Thái Lan",
+          "capital_billion_usd": 1.154,
+          "share_percent": 3.0,
+          "rank": 8,
+          "yoy_change": "+412.2%"
+        },
+        {
+          "country": "Thụy Điển",
+          "capital_billion_usd": 1.021,
+          "share_percent": 2.66,
+          "rank": 9,
+          "yoy_change": "+90587.0%"
+        },
+        {
+          "country": "British Virgin Islands",
+          "capital_billion_usd": 0.912,
+          "share_percent": 2.37,
+          "rank": 10,
+          "yoy_change": "+55.6%"
+        },
+        {
+          "country": "Các đối tác khác",
+          "capital_billion_usd": 4.3,
+          "share_percent": 11.2,
+          "rank": 11,
+          "yoy_change": "-"
         }
       ]
     },
@@ -483,5 +512,103 @@
       "monthly_registered": 7.13,
       "monthly_implemented": 2.15
     }
-  ]
+  ],
+  "sectors_breakdown": {
+    "2024": [
+      {
+        "sector": "Công nghiệp chế biến, chế tạo",
+        "capital_billion_usd": 25.58,
+        "share_percent": 66.9,
+        "rank": 1
+      },
+      {
+        "sector": "Kinh doanh bất động sản",
+        "capital_billion_usd": 6.31,
+        "share_percent": 16.5,
+        "rank": 2
+      },
+      {
+        "sector": "Sản xuất, phân phối điện",
+        "capital_billion_usd": 1.42,
+        "share_percent": 3.72,
+        "rank": 3
+      },
+      {
+        "sector": "Bán buôn và bán lẻ",
+        "capital_billion_usd": 1.41,
+        "share_percent": 3.69,
+        "rank": 4
+      },
+      {
+        "sector": "Các ngành khác (Kho bãi, KHCN, Xây dựng...) ",
+        "capital_billion_usd": 3.51,
+        "share_percent": 9.19,
+        "rank": 5
+      }
+    ],
+    "2025": [
+      {
+        "sector": "Công nghiệp chế biến, chế tạo",
+        "capital_billion_usd": 21.01,
+        "share_percent": 54.7,
+        "rank": 1
+      },
+      {
+        "sector": "Kinh doanh bất động sản",
+        "capital_billion_usd": 7.11,
+        "share_percent": 18.51,
+        "rank": 2
+      },
+      {
+        "sector": "Bán buôn và bán lẻ; sửa chữa xe",
+        "capital_billion_usd": 3.0,
+        "share_percent": 7.81,
+        "rank": 3
+      },
+      {
+        "sector": "Hoạt động chuyên môn, KH&CN",
+        "capital_billion_usd": 1.9,
+        "share_percent": 4.95,
+        "rank": 4
+      },
+      {
+        "sector": "Các ngành khác (Điện, Xây dựng, Kho bãi...)",
+        "capital_billion_usd": 5.4,
+        "share_percent": 14.03,
+        "rank": 5
+      }
+    ],
+    "2026_8M": [
+      {
+        "sector": "Công nghiệp chế biến, chế tạo",
+        "capital_billion_usd": 24.5,
+        "share_percent": 60.3,
+        "rank": 1
+      },
+      {
+        "sector": "Kinh doanh bất động sản",
+        "capital_billion_usd": 6.8,
+        "share_percent": 16.74,
+        "rank": 2
+      },
+      {
+        "sector": "Bán buôn và bán lẻ",
+        "capital_billion_usd": 3.1,
+        "share_percent": 7.63,
+        "rank": 3
+      },
+      {
+        "sector": "Sản xuất phân phối điện & công nghệ bán dẫn",
+        "capital_billion_usd": 2.8,
+        "share_percent": 6.89,
+        "rank": 4
+      },
+      {
+        "sector": "Các ngành khác",
+        "capital_billion_usd": 3.43,
+        "share_percent": 8.44,
+        "rank": 5
+      }
+    ]
+  }
 }
